@@ -1,0 +1,187 @@
+
+body{
+    font-family: Barlow Condensed, sans-serif;
+    
+
+}
+header nav{
+    background-color: #3a3a3a;
+    padding: 15px 0;
+    border-bottom: 1px solid #fff;
+    
+    
+
+}
+header nav .part1{
+    background-color:#3a3a3a;
+    float: left;
+    width: 10%;
+}
+header nav .part1 img{
+    width: 100%
+}
+header nav .part2{
+    background-color: #3a3a3a;
+    float: right;
+}
+header nav .part2 ul{
+    list-style: none;
+}
+header nav .part2 ul li{
+    display: inline-block;
+    margin: 10px;
+    
+}
+header nav .part2 ul a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+}
+header{
+    background-color: #3a3a3a;
+    height: 100vh;
+    border-top: 1px solid transparent;
+}
+header .content{
+    background-color: #3a3a3a;
+    width: fit-content;
+    
+    margin:0px auto;
+    text-align: center;
+    
+    margin-top: 190px;
+    color: #fff;
+    
+} 
+header .content h1 {
+    font-size: 50px;
+    margin: 10px 0;
+
+}   
+header .content p {
+    font-size: 25px;
+    
+}
+#About,
+#Booknow{
+    background-color: rgb(115, 40, 26);
+    color: #fff;
+    padding-block: 50px;
+    
+}
+#About .container{
+    overflow: auto;
+
+}
+#About .part1{
+    background-color: transparent;
+    width: 50%;
+    text-align: center;
+}
+#About .part1 h2{
+    font-size: 80px;
+    
+}
+#About  .part1 h5{
+    font-size: 20px;
+    margin: 10px 0;
+}
+#About .part1 p{
+    line-height: 30px;
+    font-size: 20px;
+    text-align: left;
+
+}
+#About .part1 p span{
+    color: black;
+    background-color:rgb(255, 137, 79);
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 400;
+}
+#About .part2{
+    background-color:transparent;
+    width: 50%;
+    
+}
+#About .part2 img{
+    width: 85%;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
+#Menue{
+    background-color: rgb(62, 62, 62);
+    color: #fff;
+}
+#Menue .burger{
+    background-color:rgb(62, 62, 62) ;
+    width: 50%;
+    padding: 50px;
+}
+#Menue .burger img{
+    width: 100%;
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+}
+#Menue .burger h4{
+    text-align: center;
+    margin-block: 10px;
+    font-size: 35px;
+}
+#Menue .burger ul li{
+    width: 25%;
+}
+#Booknow{
+    background-color:rgb(115, 40, 26);
+}
+#Booknow form{
+    width: 60%;
+    display: block;
+    margin: auto;
+
+}
+#Booknow form input{
+    margin-bottom: 30px;
+}
+#Booknow form label{
+    display: block;
+    margin-bottom: 10px;
+}
+#Booknow form .inpute input,
+#Booknow form .inpute textarea{
+    border-radius: none;
+    width: 100%;
+}
+#Booknow form .inpute input{
+    height: 70px;
+}
+#Booknow form .inpute textarea{
+    resize: none;
+    height: 100px;
+}
+#Booknow form button{
+    display: block;
+    padding: 15px 30px;
+    width: 100%;
+    border-radius: 10px;
+    border: 3px solid #fff;
+    background-color: transparent;
+    color: #fff;
+    font-size: 20px;
+    
+
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+    padding: 15px 30px;
+    background-color:rgb(62, 62, 62) ;
+    color: #fff;
+}
+
+
+    
+
